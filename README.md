@@ -1,8 +1,8 @@
 # Signals-Systems
-This C++ project simulates core Signals and Systems operations which allows students to experiment with discrete signals directly from the terminal.
-It helps in understanding fundamental signal transformations and the behavior of Linear Time-Invariant (LTI) systems.
+This C++ project emulates fundamental Signals and Systems operations — enabling students to play around with discrete signals from the terminal.
+It assists in learning basic signal transformations and LTI system behavior. 
 
-This is a menu-driven terminal application designed to feel like a digital signal lab — complete with reversible transformations, convolution, and LTI system verification.
+It is a menu-driven terminal program with the look and feel of a digital signal laboratory — complete with reversible transformations, convolution, and LTI system checking.
 ## Features
 
 | Operation            | Description                                               |
